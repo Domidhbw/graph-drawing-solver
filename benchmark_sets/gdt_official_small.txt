@@ -1,0 +1,4 @@
+# Small imported GDT/Rome official test-suite subset.
+instances_converted/gdt_official_small/00000_GDT-testsuite-CD.tgz_ALF_CD_graphswith10nodes_ug13.10_n10_m9.json
+instances_converted/gdt_official_small/00001_GDT-testsuite-CD.tgz_ALF_CD_graphswith30nodes_ug28.30_n30_m31.json
+instances_converted/gdt_official_small/00002_GDT-testsuite-CD.tgz_ALF_CD_graphswith50nodes_ug12.50_n50_m54.json

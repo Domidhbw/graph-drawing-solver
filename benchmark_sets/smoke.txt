@@ -1,0 +1,8 @@
+# Small, fast benchmark set for smoke tests.
+# Keep this set short so it can be run frequently.
+
+instances_converted/rome/rome_g10_e12.json
+instances_converted/random/small_sparse.json
+instances_converted/structured/tree_depth5.json
+instances_converted/structured/grid_4x5.json
+instances_converted/adversarial/bipartite_5_5.json

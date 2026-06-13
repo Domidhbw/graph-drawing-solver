@@ -1,0 +1,12 @@
+# Normalized old contest-like JSON instances.
+# Source: old project datasets/contest.
+# These are larger and more contest-like than the small synthetic benchmark sets.
+
+instances_converted/contest_old/instance_1.json
+instances_converted/contest_old/instance_2.json
+instances_converted/contest_old/instance_3.json
+instances_converted/contest_old/instance_4.json
+instances_converted/contest_old/instance_5.json
+instances_converted/contest_old/instance_6.json
+instances_converted/contest_old/instance_7.json
+instances_converted/contest_old/instance_8.json

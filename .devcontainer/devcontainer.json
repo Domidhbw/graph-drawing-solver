@@ -1,0 +1,21 @@
+{
+    "name": "Graph Drawing Contest 2026",
+
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "llvm-vs-code-extensions.vscode-clangd",
+                "ms-vscode.cmake-tools",
+                "twxs.cmake",
+                "ms-vscode.cpptools",
+                "eamodio.gitlens"
+            ]
+        }
+    },
+
+    "remoteUser": "vscode"
+}

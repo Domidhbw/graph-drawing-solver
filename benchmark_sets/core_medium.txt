@@ -1,0 +1,30 @@
+# Medium benchmark set for more serious evaluation.
+# This includes denser and more adversarial cases.
+
+instances_converted/rome/rome_g10_e12.json
+instances_converted/rome/rome_g15_e20.json
+instances_converted/rome/rome_g20_e30.json
+instances_converted/rome/rome_g25_e40.json
+instances_converted/rome/rome_g30_e50.json
+
+instances_converted/random/small_sparse.json
+instances_converted/random/small_dense.json
+instances_converted/random/medium_sparse.json
+instances_converted/random/medium_dense.json
+instances_converted/random/large_sparse.json
+
+instances_converted/structured/tree_depth5.json
+instances_converted/structured/grid_4x5.json
+instances_converted/structured/cycle_chords20.json
+
+instances_converted/adversarial/bipartite_5_5.json
+instances_converted/adversarial/bipartite_8_8.json
+instances_converted/adversarial/bipartite_near_complete_7_7.json
+instances_converted/adversarial/bipartite_unbalanced_3_12.json
+instances_converted/adversarial/complete_k10.json
+instances_converted/adversarial/complete_k15.json
+instances_converted/adversarial/circular_violation_16.json
+instances_converted/adversarial/circular_violation_20.json
+instances_converted/adversarial/layered_conflict_3x4.json
+instances_converted/adversarial/nested_cycles_3x8.json
+instances_converted/adversarial/turan_12_4.json

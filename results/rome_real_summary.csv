@@ -1,0 +1,11 @@
+graph,runs,original_k,original_crossings,original_valid_rate,best_random_k,best_circular_k,best_grid_k,best_fr_k,best_sa_k,avg_random_k,avg_circular_k,avg_grid_k,avg_fr_k,avg_sa_k,random_valid_rate,circular_valid_rate,grid_valid_rate,fr_valid_rate,sa_valid_rate,best_sa_crossings,avg_sa_crossings,avg_duration_ms
+instances_converted/rome_real/00000_GDT-testsuite-CD.tgz_ALF_CD_graphswith10nodes_ug13.10_n10_m9.json,15,3,3,1.00,2,3,2,0,0,2.60,3.00,2.00,0.00,0.00,1.00,1.00,1.00,1.00,1.00,0,0.00,307.20
+instances_converted/rome_real/00001_GDT-testsuite-CD.tgz_ALF_CD_graphswith20nodes_ug53.20_n20_m19.json,15,11,58,1.00,7,11,9,2,0,9.00,11.00,9.00,2.00,0.00,1.00,1.00,0.00,0.00,1.00,0,0.00,684.07
+instances_converted/rome_real/00002_GDT-testsuite-CD.tgz_ALF_CD_graphswith30nodes_ug28.30_n30_m31.json,15,18,178,1.00,11,18,17,4,1,15.00,18.00,17.00,4.00,3.07,1.00,1.00,0.00,0.00,1.00,3,16.93,1424.67
+instances_converted/rome_real/00003_GDT-testsuite-CD.tgz_ALF_CD_graphswith40nodes_ug34.40_n40_m42.json,15,27,358,1.00,18,27,19,4,2,21.60,27.00,19.00,4.00,2.00,1.00,1.00,0.00,0.00,1.00,7,8.47,2554.13
+instances_converted/rome_real/00004_GDT-testsuite-CD.tgz_ALF_CD_graphswith50nodes_ug12.50_n50_m54.json,15,24,227,1.00,24,24,24,7,2,27.20,24.00,24.00,7.00,5.13,1.00,1.00,0.00,0.00,1.00,9,39.87,4004.00
+instances_converted/rome_real/00005_GDT-testsuite-CD.tgz_ALF_CD_graphswith60nodes_ug10.60_n60_m69.json,15,47,1047,1.00,30,47,39,9,3,33.60,47.00,39.00,9.00,10.87,1.00,1.00,0.00,0.00,1.00,15,142.07,6147.87
+instances_converted/rome_real/00006_GDT-testsuite-CD.tgz_ALF_CD_graphswith70nodes_ug59.70_n70_m78.json,15,26,351,1.00,37,26,35,9,2,39.20,26.00,35.00,9.00,6.87,1.00,1.00,0.00,0.00,1.00,7,78.67,7734.67
+instances_converted/rome_real/00007_GDT-testsuite-BDPB.tgz_RND_BDPB_graphswith80nodes_ug12.80_n80_m92.json,15,47,1106,1.00,47,47,47,9,3,49.40,47.00,47.00,9.00,6.00,1.00,1.00,0.00,0.00,1.00,21,96.87,10716.67
+instances_converted/rome_real/00008_GDT-testsuite-BDPB.tgz_RND_BDPB_graphswith90nodes_ug14.90_n90_m101.json,15,50,1496,1.00,47,50,46,14,2,50.80,50.00,46.00,14.00,9.00,1.00,1.00,0.00,0.00,1.00,24,200.00,12815.27
+instances_converted/rome_real/00009_GDT-testsuite-BDPB.tgz_RND_BDPB_graphswith100nodes_ug11.100_n100_m112.json,15,63,2083,1.00,52,63,59,15,3,57.20,63.00,59.00,15.00,11.40,1.00,1.00,0.00,0.00,1.00,43,222.67,16054.67
